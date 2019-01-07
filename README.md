@@ -1,6 +1,6 @@
 # Magic 8 Ball 
 
-A magic 8 ball iOS app for iPhone with motion detection for shaking the phone to get an answer.
+A magic 8 ball iOS app with motion detection.
 
 [![demo](https://github.com/DudkinAS/Magic-8-Ball-iOS-app/blob/master/img/demo.png?raw=true)](img/demo.png)
 
